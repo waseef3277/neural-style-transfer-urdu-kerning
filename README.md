@@ -1,4 +1,1 @@
-# Neural Text Style Transfer for URDU with Kerning applied.
-
-
-![Demo](Demo.gif)
+# Neural Text Style Transfer for URDU with Kerning applied in Python.
